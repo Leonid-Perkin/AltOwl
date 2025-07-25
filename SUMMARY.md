@@ -15,3 +15,4 @@
 ## Установка приложений
 
 * [LibreOffice](ustanovka-prilozhenii/libreoffice.md)
+* [Установка шрифтов](ustanovka-prilozhenii/ustanovka-shriftov.md)
