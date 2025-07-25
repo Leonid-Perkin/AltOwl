@@ -17,3 +17,7 @@
 * [LibreOffice](ustanovka-prilozhenii/libreoffice.md)
 * [Установка шрифтов](ustanovka-prilozhenii/ustanovka-shriftov.md)
 * [Steam](ustanovka-prilozhenii/steam.md)
+
+***
+
+* [Коллекция обоев от CyberOwl](kollekciya-oboev-ot-cyberowl.md)
