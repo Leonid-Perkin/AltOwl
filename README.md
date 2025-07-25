@@ -31,3 +31,22 @@ description: Ты всё же решился перейти на ALT Linux?
 ### Какую версию ALT Linux использует автор CyberOwl?
 
 Я использую StarterKit P11 GNOME для работы и игр, а для разработки и в качестве тестового полигона — ALT Regular с рабочим столом GNOME.
+
+### Где скачать ALT Linux?
+
+{% hint style="warning" %}
+**Важно для юридических лиц:**\
+Для легального использования ALT Linux в организациях требуется заключение договора
+{% endhint %}
+
+### Страница загрузки
+
+{% embed url="https://getalt.org/ru/" %}
+
+#### Стартовые наборы
+
+{% embed url="https://www.altlinux.org/Starterkits/Download" %}
+
+#### Sisyphus
+
+{% embed url="https://nightly.altlinux.org/sisyphus/tested/regular-gnome-latest-x86_64.iso" %}
